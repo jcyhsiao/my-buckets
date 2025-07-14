@@ -12,7 +12,7 @@
     "architecture": {
         "arm64": {
             "url": "https://archive.mozilla.org/pub/devedition/releases/141.0b9/win64-aarch64/en-US/Firefox%20Setup%20141.0b9.exe#/dl.7z",
-            "hash": "sha512:85f0c2316386797751120af15fd8f641968b276b3140d30a48684c897fc0a725e030eab0cd222020e53415e6653e1d9618b5120395161deff502f5a2e85d0049"
+            "hash": "sha512:b7a8a79ef3d0b9e0044c562c35ca6b94ba4f48bce848609a62467f2d88e383ae42f41edde53468f7e82ad3039484ca8a4b7c87aac63300b4c0e15e22e65be580"
         },
         "64bit": {
             "url": "https://archive.mozilla.org/pub/devedition/releases/141.0b9/win64/en-US/Firefox%20Setup%20141.0b9.exe#/dl.7z",
